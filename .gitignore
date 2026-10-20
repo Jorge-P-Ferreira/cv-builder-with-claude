@@ -1,0 +1,10 @@
+# Personal CV files (kept private)
+overleaf.tex
+markdown.md
+*.pdf
+
+# Private recruiter conversation
+hr_conversation.txt
+
+# Personal Claude instructions (see CLAUDE.example.md for a template)
+CLAUDE.md
